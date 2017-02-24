@@ -1,4 +1,5 @@
-# Pasos a seguir para subir mi Proyecto GiHub
+# Pasos a seguir para subir mi Proyecto GitHub
+   
    - git init
    - git add .
    - git commit -m "primer comentario"
